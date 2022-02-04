@@ -8,4 +8,6 @@
 
 如果各位有兴趣跟我一起探讨Android技术欢迎添加我的微信
 
-![](https://github.com/tomridder/ButterKnife-8.4.0-/blob/main/wechat.jpg)
+![](https://github.com/tomridder/ButterKnife-8.4.0-/blob/main/wechat.jpg )
+
+如果大家觉得这篇源码分析系列文章写得还好的话 给个star也行呗~~
